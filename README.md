@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# World Population App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## App Description
+The app plots out the world's top ten population using horizontal lines representing the percentage of the population.
 
 ## Available Scripts
 
